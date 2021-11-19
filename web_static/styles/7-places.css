@@ -1,0 +1,27 @@
+.places{
+    text-align: center;
+}
+
+.places h1{
+
+    vertical-align: top;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 15px;
+}
+
+.digs{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: solid #FF5A5F 1px;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+}
+
+.digs h2{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+}
